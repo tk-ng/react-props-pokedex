@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+}
+
+.Pokecard {
+	border-radius: 25px;
+	background: rgb(201, 201, 201);
+	width: 200px;
+	text-align: center;
+	margin: 30px;
+	/* display: flex;
+	justify-content: center;
+	align-items: center; */
+}
+
+.Pokecard-Name {
+	color: rgb(17, 0, 213);
+	padding-top: 5px;
+}
